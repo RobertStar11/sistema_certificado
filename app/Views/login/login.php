@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>AdminLTE 3 | Log in (v2)</title>
+    <title>ValiCERTI | Login</title>
 
     <!-- Google Font: Source Sans Pro -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
@@ -28,7 +28,7 @@
 
                 <form action="../../index3.html" method="post">
                     <div class="input-group mb-3">
-                        <input type="email" class="form-control" id='txtuser' name='txtuser' placeholder="DNI">
+                        <input type="text" class="form-control" id='txtuser' name='txtuser' placeholder="DNI">
                         <div class="input-group-append">
                             <div class="input-group-text">
                                 <span class="fa-solid fa-id-card"></span>
